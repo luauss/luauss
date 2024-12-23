@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm **luauss**, a passionate developer with an ent
 
 ### 📈 My GitHub Activity:
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luauss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=2f3b52)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luauss&theme=github)
 
 ---
 
