@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://raw.githubusercontent.com/luauss/luauss/output/github-contribution-grid-snake2.svg" alt="snake animation" />
+<img src="https://cdn.discordapp.com/attachments/1275064005395742794/1320816625943056507/Snap_1.png?ex=676af9d7&is=6769a857&hm=e5db019481cc7f173a617722b2e69dc79e6fb7916046dfb4c87142aed8518731&" />
 
 
